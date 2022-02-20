@@ -392,3 +392,28 @@ html {
   border-width: thick;
   border-style: solid;
 }
+
+/* Skills */
+
+.dice-game-explain{
+  position: absolute;
+  margin-top: 50%;
+  text-align: center;
+}
+
+.project-dice{
+  position: absolute;
+  font-size: 250%;
+  margin-left: 35%;
+  margin-top: 60%;
+}
+
+.image-dicee-game{
+  position: absolute;
+  margin-top: 65%;
+  width: 50%;
+  height: 60%;
+  margin-left: 28%;
+  border-width: thick;
+  border-style: solid;
+}
