@@ -417,3 +417,22 @@ html {
   border-width: thick;
   border-style: solid;
 }
+
+.image-drum-kit{
+  position: absolute;
+  height: 60%;
+  width: 55%;
+  border-style: solid;
+  border-width: thick;
+  margin-left: 28%;
+  margin-top: 130%;
+}
+
+.drum-kit-explain{
+  text-align: center;
+  margin-top: 115%;
+}
+
+.project-drum-kit{
+  font-size: 250%;
+  margin-left: 35%;
